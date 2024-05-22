@@ -1,1 +1,1 @@
-Calculator using JavaScript
+Calculator using HTML, CSS, JavaScript, and Bootstrap
